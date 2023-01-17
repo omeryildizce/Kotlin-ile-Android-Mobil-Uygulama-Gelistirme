@@ -1,26 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="@drawable/background"
     tools:context=".MainActivity">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+
+        >
 
 
         <AutoCompleteTextView
             android:id="@+id/etDersAd"
+
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
             android:layout_marginTop="8dp"
             android:layout_marginEnd="8dp"
-            app:layout_constraintEnd_toStartOf="@id/btnDersEkle"
+            android:hint="Ders adı"
+            app:layout_constraintEnd_toStartOf="@+id/btnDersEkle"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
@@ -34,10 +38,10 @@
             android:layout_marginBottom="8dp"
             android:entries="@array/krediler"
             app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toStartOf="@id/spnDersNot"
+            app:layout_constraintEnd_toStartOf="@+id/spnDersNot"
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@id/etDersAd" />
+            app:layout_constraintTop_toBottomOf="@+id/etDersAd" />
 
         <Spinner
             android:id="@+id/spnDersNot"
@@ -48,17 +52,18 @@
             android:entries="@array/tumNotlar"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
-            app:layout_constraintStart_toEndOf="@id/spnDersKredi"
-            app:layout_constraintTop_toTopOf="@id/spnDersKredi" />
+            app:layout_constraintStart_toEndOf="@+id/spnDersKredi"
+            app:layout_constraintTop_toTopOf="@+id/spnDersKredi" />
 
         <Button
             android:id="@+id/btnDersEkle"
             android:layout_width="wrap_content"
             android:layout_height="0dp"
-            android:text="Ekle"
-            app:layout_constraintBottom_toBottomOf="@id/etDersAd"
+            android:background="@android:drawable/ic_input_add"
+            app:backgroundTint="@android:color/holo_green_dark"
+            app:layout_constraintBottom_toBottomOf="@+id/etDersAd"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toTopOf="@id/etDersAd" />
+            app:layout_constraintTop_toTopOf="@+id/etDersAd" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 
     <View
@@ -68,22 +73,33 @@
 
     <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="400dp" >
+        android:layout_height="500dp">
+
         <LinearLayout
+            android:id="@+id/root_layout"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/root_layout"
             android:orientation="vertical">
 
 
         </LinearLayout>
 
     </ScrollView>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/design_default_color_secondary" />
 
     <Button
+        android:id="@+id/btnOrtalamaHesapla"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_margin="10dp"
         android:layout_gravity="center"
         android:onClick="ortalamaHesapla"
-        android:text="Hesapla" />
+        android:text="Hesapla"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
 </LinearLayout>
