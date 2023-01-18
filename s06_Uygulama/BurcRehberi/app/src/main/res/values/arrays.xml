@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="burclar">
+        <item>Koç</item>
+        <item>Boğa</item>
+        <item>İkizler</item>
+        <item>Yengeç</item>
+        <item>Aslan</item>
+        <item>Başak</item>
+        <item>Terazi</item>
+        <item>Akrep</item>
+        <item>Yay</item>
+        <item>Oğlak</item>
+        <item>Kova</item>
+        <item>Balık</item>
+    </string-array>
+
+    <string-array name="burcTarih">
+        <item>21 Mart - 20 Nisan</item>
+        <item>21 Nisan - 21 Mayıs</item>
+        <item>22 Mayıs - 22 Haziran</item>
+        <item>23 Haziran - 22 Temmuz</item>
+        <item>23 Temmuz - 22 Ağustos</item>
+        <item>23 Ağustos - 22 Eylül</item>
+        <item>23 Eylül - 22 Ekim</item>
+        <item>23 Ekim - 21 Kasım</item>
+        <item>22 Kasım - 21 Aralık</item>
+        <item>22 Aralık - 21 Ocak</item>
+        <item>22 Ocak - 19 Şubat</item>
+        <item>20 Şubat - 20 Mart</item>
+    </string-array>
+    <string-array name="burcGenelOzellikler" >
+        <item>
+            \tGenel Özellikler\n\n
+            \tElementi: Ateş\n\n
+            \tNiteliği: Öncü\n\n
+            \tGezegeni: Mars\n\n
+            \tRengi: Kırmızı\n\n
+            \tTaşı: Elmas\n\n
+            \tGünü: Salı\n\n
+            \tKoç burcu özellikleri: Aktif, dinamik, insiyatif sahibi, hızlı, lider, yönetici\n\n
+            \tKoç burcu erkeği: Bir komutan edasında olabilir ve yönetme arzusu ruhunda vardır. Hızlıdır, bir süreci tamamladığında diğerine geçmekte zorlanmaz ancak her şeyi çabuk tüketen ve çabuk sıkılan bir yapıya sahiptir. Sakin ve sabırlı bir eş veya ortak ararlar.\n\n
+            \tKoç burcu kadını: Erkeksi özelliklere sahip, güçlü ve mücadeleci kadınlardır. Harekete geçmekten korkmaz, cesur ve girişimcidir. Ne istediğini bilir ve hızla kavuşmak ister. Sabırsız ve aceleci özellikleri hata yapmasına neden olabilir.\n\n
+            \tTarzı: Canlı renkler, cesur kıyafetler, erkeklerde sert ve maço, kadınlarda ise erkeksi ancak seksi giysiler\n\n
+            \tBedende temsil ettiği bölge: Baş ve Yüz\n\n
+            \tAnlaştığı burçlar: Aslan, Yay, Terazi\n\n
+            \tAnlaşamadığı burçlar: Oğlak, Kova, Balık\n\n
+        </item>
+        <item>
+            \tGenel Özellikler\n\n
+            \tElementi: Toprak\n\n
+            \tNiteliği: Sabit\n\n
+            \tGezegeni: Venüs\n\n
+            \tRengi: Toprak renkler, taba, bej, kahve, yeşil\n\n
+            \tTaşı: Zümrüt\n\n
+            \tGünü: Cuma\n\n
+            \tBoğa burcu özellikleri: Güvenilir, rahatına, konforuna, yemeğe düşkün, gurme, harekete geçmekte zorlanan\n\n
+            \tBoğa burcu erkeği: Güven ve sadakat önemlidir. Bir Boğa erkeğinin güvenini kazandıysanız sizden kolay kolay vazgeçmez. Süslü, bakımlı, makyajlı kadınlardan hoşlanır. Lüks, para ve maddiyat onun için önemlidir.\n\n
+            \tBoğa burcu kadını: Giyinmekten, süslenmekten hoşlanan, her daim güzel görünmek isteyen, alımlı, bakımlı, güzel kadındır. İlişkilerinde güven çok önemlidir. Karşılığında sonsuz bir sadakat sunabilir. Para harcamayı, alışverişi sever ancak hesabını da bilir.\n\n
+            \tTarzı: Zarif, yumuşak, rahat giysiler, zengin, şık, kibar, oturaklı görünüm.\n\n
+            \tBedende temsil ettiği bölge: Boyun, boğaz\n\n
+            \tAnlaştığı burçlar: Başak, Akrep, Terazi\n\n
+            \tAnlaşamadığı burçlar: Aslan, Kova, Yay\n\n
+        </item>
+        <item>
+            \tGenel Özellikler\n\n
+            \tElementi: Hava\n\n
+            \tNiteliği: Değişken\n\n
+            \tGezegeni: Merkür\n\n
+            \tRengi: Sarı, turuncu\n\n
+            \tTaşı: Agat\n\n
+            \tGünü: Çarşamba\n\n
+            \tİkizler burcu özellikleri: Esnek, uyumlu, çevik, konuşkan, meraklı, arkadaş canlısı\n\n
+            \tİkizler burcu kadını: Değişime herkesten çok ihtiyacı vardır. bulunduğu ortamda çabuk sıkılır, dışarı çıkmak, hava almak ister. Özgürlüğüne karışılmamalıdır. tatlı dilli ve konuşkandır. Dost canlısı yönü etrafında pek çok kişinin bulunmasını sağlar. Akıllı ve zekidir, ne istediğini çabuk bilir ve ona hızla ulaşmak için pratik yolları kolayca bulur.\n\n
+            \tİkizler burcu erkeği: Sevimli ve canayakındır. Beğendiği kişiyi güzel sözleri, akılcı konuşması, bilgi ve birikimiyle kolayca etkileyebilir. Gezmeyi, seyahati sever, hareketli, değişken bir hayatı tercih eder. Aşktan çabuk sıkılabilir, sadakat konusunda çok beklenti içinde olmamak gerekir, zira sürekli değişim arar hayatında. Zorlu durumlar karşısında pratik çözümleriyle yol göstericidir.\n\n
+            \tTarzı: En son trendlere, yeniliklere meraklıdır. Kim ne giymiş, ne takmış, sürmüş onun için önemlidir. Değişken ruh haline göre zaman zaman çarpıcı giysilerden, renksiz veya göze çarpmayan giysilere kadar geniş bir gardırobu olabilir.\n\n
+            \tBedende temsil ettiği bölge: Omuz, kollar, eller\n\n
+            \tAnlaştığı burçlar: Terazi, Kova, Yay\n\n
+            \tAnlaşamadığı burçlar: Oğlak, Yengeç, Boğa\n\n
+        </item>
+        <item>
+            \tGenel Özellikler\n\n
+            \tElementi: Su\n\n
+            \tNiteliği: Öncü\n\n
+            \tGezegeni: Ay\n\n
+            \tRengi: Mavi\n\n
+            \tTaşı: İnci\n\n
+            \tGünü: Pazartesi\n\n
+            \tYengeç burcu özellikleri: Evine, annesine, ailesine, yurduna düşkün, duyarlı, hassas, yemeğe, sofraya meraklı, tarihsel konulara ilgili, müzik yeteneğine sahip\n\n
+            \tYengeç burcu erkeği: Annesine ve eşine düşkün, evine bağlı erkeklerdir. Mutfaktan, yemek yapmaktan, güzel sofralardan keyif alır. Algısı yüksek, anlayışlı, şefkatli ve merhametlidir ancak bunu abarttığında boğucu gelebilir.\n\n
+            \tYengeç burcu kadını: Güzel ve çekici kadınlardır, iyi bir eş ve anne olurlar, evlerinde zaman geçirmeyi, mutfakla ilgilenmeyi, yemek pişirmeyi ve yemeyi severler. Kadınlar, kadınsal konularla ve çocuklarla araları çok iyidir.\n\n
+            \tTarzı: Göğüs dekoltesini gösteren giysiler, yuvarlak kesimler, bol ve rahat elbiseler, yumuşak kumaşlar\n\n
+            \tBedende temsil ettiği bölge: Göğüs, mide\n\n
+            \tAnlaştığı burçlar: Akrep, Balık, Oğlak\n\n
+            \tAnlaşamadığı burçlar: İkizler, Yay, Kova\n\n
+        </item>
+        <item>
+            \tGenel Özellikler\n\n
+            \tElementi: Ateş\n\n
+            \tNiteliği: Sabit\n\n
+            \tGezegeni: Güneş\n\n
+            \tRengi: Altın, turuncu\n\n
+            \tTaşı: Yakut\n\n
+            \tGünü: Pazar\n\n
+            \tAslan burcu özellikleri: Özgüvenli, gururlu, mağrur, koruyan, kollayan, gösterişli, sanata, estetiğe düşkün\n\n
+            \tAslan burcu erkeği: Gururnun okşanmasından, hizmet görmekten, pohpohlanmaktan hoşlanır. Ne kadar şık ve yakışıklı olduğunu sıkça tekrarlamanız gerekebilir. Baba olmak için doğmuştur, kendisi baba olmasa da korumacı ve kollayıcı özellikleriyle baba rolü üstlenebilir.\n\n
+            \tAslan burcu kadını: Giyinmeye, süslenmeye meraklıdır. Girdiği ortamlarda kıyafet, aksesuar ve saçlarıyla hemen dikkatleri üzerine çeker. Sahne duruşu ve yürüyüşüne sahiptir. Gururunu kıracak herhangi bir söz ve davranıştan özellikle sakınmanız gerekir.\n\n
+            \tTarzı: Gösterişli, frapan giysiler, canlı renkler, iddialı kesimler, parlak aksesuarlar, taçlar, mücevherler\n\n
+            \tBedende temsil ettiği bölge: Kalp\n\n
+            \tAnlaştığı burçlar: Yay, Koç, Kova\n\n
+            \tAnlaşamadığı burçlar: Akrep, Oğlak, Yengeç\n\n
+        </item>
+        <item>
+            \tGenel Özellikler\n\n
+            \tElementi: Toprak\n\n
+            \tNiteliği: Değişken\n\n
+            \tGezegeni: Merkür\n\n
+            \tRengi: Sarı\n\n
+            \tTaşı: Akik\n\n
+            \tGünü: Çarşamba\n\n
+            \tBaşak burcu özellikleri: Titiz, çalışkan, mükemmeliyetçi, eleştirel, detaycı, emektar, hizmet odaklı\n\n
+            \tBaşak burcu erkeği: Akılcı ve pratik bir zekaya sahiptir. Dakiktir, çalışkandır, detaylara önem verir. Eleştirel ve titiz yönleri zaman zaman onu zorlayıcı kılabilir. Ancak hizmet odaklı yapısıyla yaşamınızda siz farkında olmadan hayatınızı kolaylaştıran kişidir.\n\n
+            \tBaşak burcu kadını: Başak burcu kadınına bir şey beğendirmek oldukça zordur. En küçük kusur ve detayları görebilecek göze sahiptir. Bazen bu detaylar içinde çok fazla kaybolabilir. Seçim yapmakta oldukça zorlanır, kuruntu ve evhamlar geliştirebilir.\n\n
+            \tTarzı: Temiz, net, hatasız kesimleri tercih eder, süsten, aksesuardan, frapanlıktan hoşlanmaz. Tarzı konusunda da mükemmeliyetçidir, kendi düşüncesi kadar başkalarınınki de önemlidir.\n\n
+            \tBedende temsil ettiği bölge: Bağırsaklar\n\n
+            \tAnlaştığı burçlar: Boğa, Balık, İkizler\n\n
+            \tAnlaşamadığı burçlar: Akrep, Aslan, Kova\n\n
+        </item>
+        <item>
+            \tGenel Özellikler\n\n
+            \tElementi: Hava\n\n
+            \tNiteliği: Öncü\n\n
+            \tGezegeni: Venüs\n\n
+            \tRengi: Mavi, pembe\n\n
+            \tTaşı: Safir\n\n
+            \tGünü: Cuma\n\n
+            \tTerazi burcu özellikleri: Adil, eşitlikçi, dengeli, uyumlu, sakin, sabırlı, akıllı, kibar\n\n
+            \tTerazi burcu erkeği: Sakin, uyumlu görüntüsünün ardında ne istediğini iyi bilen ve dominant bir yapısı vardır. Huzur onun için önemlidir. Sanata düşkündür. Keyif aldığı konularda para harcamayı sever. İlişkisinde denge ve eşitlik bekler.\n\n
+            \tTerazi burcu kadını: Zarafeti ve güzelliğiyle dikkat çekicidir. Akıllı ve sabırlıdır, çatışmadan hoşlanmaz, dengeli, uyumlu bir birliktelik arar. Gizli mükemmeliyetçi bir yönü vardır. Politik ve kibar tutumu ve davranışlarıyla takdir toplar.\n\n
+            \tTarzı: Zarif, kibar, rafine zevkleri yansıtan hoş giysiler, pastel renkler, hafiflik, uçuşan etek veya elbiseler, nadide kumaşlar, marka ve tasarım giysiler, aksesuarlar\n\n
+            \tBedende temsil ettiği bölge: Böbrekler\n\n
+            \tAnlaştığı burçlar: İkizler, Kova, Koç\n\n
+            \tAnlaşamadığı burçlar: Oğlak, Balık\n\n
+        </item>
+        <item>
+            \tGenel Özellikler\n\n
+            \tElementi: Su\n\n
+            \tNiteliği: Sabit\n\n
+            \tGezegeni: Mars\n\n
+            \tRengi:Bordo\n\n
+            \tTaşı: Opal\n\n
+            \tGünü: Salı\n\n
+            \tAkrep burcu özellikleri: Mücadeleci, güçlü, yılmaz, hırslı kişilerdir. Pes ettiğini düşündüğünüz anda küllerinden yeniden doğabilir. Güvenilir, kaliteli insanlardır.\n\n
+            \tAkrep burcu erkeği: Şeytan tüyü de denilebilecek farklı bir gizem, manyetizma ve çekiciliğe sahiptirler. Pek çok şeyin farkında değilmiş gibi dursalar da sezgileri sayesinde anlayışları, kavrayışları son derece güçlü erkeklerdir. Yalan ve riyaya tahammülleri yoktur.\n\n
+            \tAkrep burcu kadını: Gizemli, sezgileri güçlü, zorlayıcı Akrep burcu kadınına asla yalan söylememenizi, onu aldatmamanızı tavsiye edebiliriz. Kapalı sırların üzerine gitmekten, sorgulamaktan asla vazgeçmez. Zor beğenir, zor bırakır.\n\n
+            \tTarzı: Koyu renk giysiler, gizemli görünüm, kapatan aksesuarlar ve makyaj, siyah ojeler, dudaklar, dekolte, seksi giysiler\n\n
+            \tBedende temsil ettiği bölge: Cinsel bölgeler\n\n
+            \tAnlaştığı burçlar: Yengeç, Balık, Boğa\n\n
+            \tAnlaşamadığı burçlar: Kova, Aslan, Başak\n\n
+        </item>
+        <item>
+            \tGenel Özellikler\n\n
+            \tElementi: Ateş\n\n
+            \tNiteliği: Değişken\n\n
+            \tGezegeni: Jüpiter\n\n
+            \tRengi: Eflatun\n\n
+            \tTaşı: Topaz\n\n
+            \tGünü: Perşembe\n\n
+            \tYay burcu özellikleri: Bağımsız, özgür, hareketli, dinamik, sportif, keşif ve macera ruhuna sahip\n\n
+            \tYay burcu erkeği: Yay burcu erkeği özgürlüğü sever, ciddi bir birlikteliğiniz olabilir, evlenebilirsiniz ancak onu asla kısıtlamamalısınız. Bağlanmakta, ev erkeği olmakta zorlanır. Harika bir seyahat ortağı olur, eğlenceli zaman geçirebilirsiniz.\n\n
+            \tYay burcu kadını: Bağımsız bir ruha sahiptir. Gezmeyi, tozmayı, eğlenmeyi sever. Yeni yerler görmekten, yeni dost ve arkadaşlar tanımaktan, ufkunu ve sınırlarını zorlamaktan zevk alır. Bir Yay kadını ile asla sıkılmazsınız. Zor olan tek şey onun hızına ayak uydurabilmektir.\n\n
+            \tTarzı: Salaş ve bohem giysiler, çiçekten taçlar, dağınık ve uçuşan saçlar, çiçekli basma kıyafetler, bol ve rahat giysiler\n\n
+            \tBedende temsil ettiği bölge: Kalça, baldır, sinirler\n\n
+            \tAnlaştığı burçlar: Aslan, Koç, İkizler\n\n
+            \tAnlaşamadığı burçlar: Oğlak, Yengeç\n\n
+        </item>
+        <item>
+            \tGenel Özellikler\n\n
+            \tElementi: Toprak\n\n
+            \tNiteliği: Öncü\n\n
+            \tGezegeni: Satürn\n\n
+            \tRengi: Kahverengi, siyah\n\n
+            \tTaşı: Ametist\n\n
+            \tGünü: Cumartesi\n\n
+            \tOğlak burcu özellikleri: Ciddi, soğukkanlı, gereğinde mesafeli, planlı, organize, disiplinli, iş ve kariyer odaklı\n\n
+            \tOğlak burcu erkeği: Güvenilirdir. Hiçbir şeyş kolay kolay kabul etmez, çok az şeyi kabul eder, ancak tamam dediğinde sonuna kadar güvenebilirsiniz. Zamanlaması çok iyidir, dakiktir. Disiplin, düzen, kural anlayışıyla zaman zaman sıkıcı olabilir ama sizi asla yarı yolda bırakmayacağından emin olabilirsiniz.\n\n
+            \tOğlak burcu kadını: Evine ve ailesine düşkündür. Yalnız kalmayı, tek başına hareket etmeyi sever. Kendi kural ve prensipleri vardır. Zaman zaman fazlasıyla disiplinli ve soğuk olabilir. İyi bir iş kadınıdır. Çalışmıyorsa bile evinde, ailesine karşı sorumluluklarının son derece bilincinde, tam bir görev insanıdır.\n\n
+            \tTarzı: Koyu ve resmi giysiler, şekilli kesimler, iş ve proje sahibi görüntüsü, koyu toprak renkler, sıkı ve vücuda oturan kıyafetler, smokin, frak, fötr şapka\n\n
+            \tBedende temsil ettiği bölge: Kemikler, dişler, cilt\n\n
+            \tAnlaştığı burçlar: Yengeç, Boğa, Başak\n\n
+            \tAnlaşamadığı burçlar: İkizler, Yay, Koç\n\n
+        </item>
+        <item>
+            \tGenel Özellikler\n\n
+            \tElementi: Hava\n\n
+            \tNiteliği: Sabit\n\n
+            \tGezegeni: Satürn\n\n
+            \tRengi: Mavi yeşil\n\n
+            \tTaşı: Akuamarin\n\n
+            \tGünü: Cumartesi\n\n
+            \tKova burcu özellikleri: Arkadaş ve dost canlısı, sosyal, yenilikçi, sıradışı, marjinal\n\n
+            \tKova burcu erkeği: Evcimen olmaktan ziyade dışarıda bir hayatı tercih eden, arkadaşlıkları aileden önce gelen, farklı ve sıradışı erkeklerdir. Zeka ve akılcılıkları ile yol gösterirler, vizyoner bakış açılarıyla yaşadıkları topluma etki ederler.\n\n
+            \tKova burcu kadını: Farklıdır, sıradışıdır, zekidir. Ona ayak uydurmak çok da kolay değildir, bulunduğu ortamla uyumunu kendi yaratır. Oldukça sosyal ve arkadaş canlısı olsalar da eş seçimleri zordur. Teknolojik cihaz ve araçlar vazgeçilmezleridir.\n\n
+            \tTarzı: Orijinal ve yenilikçi tasarımlar, en yeni ve ultramodern çizgiler, tekonolojiyi çağrıştıran detaylar ve aksesuarlar, çağının ötesinde giyim anlayışı, çılgın ve sıradışı kıyafetler\n\n
+            \tBedende temsil ettiği bölge: Ayak bileği, kan dolaşımı\n\n
+            \tAnlaştığı burçlar: İkizler, Terazi, Aslan\n\n
+            \tAnlaşamadığı burçlar: Yengeç, Boğa, Koç\n\n
+        </item>
+        <item>
+            \tGenel Özellikler\n\n
+            \tElementi: Su \n\n
+            \tNiteliği: Değişken \n\n
+            \tGezegeni: Jüpiter \n\n
+            \tRengi: Beyaz, lavanta \n\n
+            \tTaşı: Ay taşı \n\n
+            \tGünü: Perşembe \n\n
+            \tBalık burcu özellikleri: Hassas, duyarlı, empatik, vicdanlı, duyarlı, sanatsal, hayırsever, yardımsever, kolay etkilenen\n\n
+            \tBalık burcu erkeği: Etrafında olan biten her şeyden ve etrafındaki herkesten kolayca etkilenebilen hassas kişilerdir. Tam olarak anlaşılamayan, kendilerini de belirli kalıplar içinde tanımlayamayan muğlak, gizemli, karmaşık yönleri vardır. Şiire ve müziğe yatkın, romantik erkeklerdir.\n\n
+            \tBalık burcu kadını: Masalsı, büyüleyici bir güzelliğe sahip olabilir. Gözleri anlamlı, derin ve oldukça etkileyicidir. Sinema aktrisi havasında olabilir. Giyinmeye, makyaja meraklıdır. Hassas ve alıngandır ancak her ne kadar fazlaca etki altında kalsa da bir şekilde zor durumlardan sıyrılmasını, kurtulmasını bilir. Akışta yaşar.\n\n
+            \tTarzı: Şekli, tarzı ve kesimi çok belli olmayan giysiler, açık renkler, beyaz kıyafetler, romantik, şairane giysiler, buğulu, belirsiz, karmaşık görünümü tamamlayan aksesuarlar\n\n
+            \tBedende temsil ettiği bölge: Ayaklar\n\n
+            \tAnlaştığı burçlar: Başak, Akrep, Yengeç\n\n
+            \tAnlaşamadığı burçlar: Kova, Oğlak, Koç\n\n
+        </item>
+
+    </string-array>
+</resources>
