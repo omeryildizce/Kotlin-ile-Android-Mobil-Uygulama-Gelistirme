@@ -4,7 +4,6 @@ import com.google.gson.annotations.SerializedName
 
 class PlaylistData {
 
-
     @SerializedName("kind")
     var kind: String? = null
     @SerializedName("etag")
